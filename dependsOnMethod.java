@@ -20,7 +20,7 @@ public class dependsOnMethod
 	   System.out.println("this is test3 method");
    }
    @Test()
-   public void test4()
+   public void test5()
    {
 	   System.out.println("this is test4 method");
 	   Assert.fail();
