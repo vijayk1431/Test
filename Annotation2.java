@@ -9,7 +9,7 @@ public class Annotation2
 	    {
 	    	System.out.println("after suite");
 	    }
-	//Always Run
+	//Always Run123234
 	    @Test(invocationCount=5)//if u want to run multiple times then invocation count=5
 	    public void cbb()
 	    {
