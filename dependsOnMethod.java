@@ -4,12 +4,12 @@ import org.testng.annotations.Test;
 public class dependsOnMethod 
 {
    @Test()
-   public void test1()
+   public void t()
    {
 	   System.out.println("this is test1 method");
    }
    @Test()
-   public void test2()
+   public void t2()
    {
 	   Assert.fail();
 	   System.out.println("this is test2 method");
