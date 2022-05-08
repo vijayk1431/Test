@@ -15,7 +15,7 @@ public class Annotations
 	{
 		System.out.println("print before suite");
 	}
-	@BeforeTest
+	
 	public void beforetest()
 	{
 		System.out.println("print before test");
