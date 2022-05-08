@@ -16,12 +16,6 @@ public class Annotation2
 	    	System.out.println("test1");
 	    	Assert.fail();//assert is a class fail() is a method to abort the execution 
 	    }
-	    @Test(alwaysRun=true)
-	    public void cab()
-	    {
-	    	Assert.fail();
-	    	System.out.println("before suite");
-	    	
-	    }
+	
 
 }
