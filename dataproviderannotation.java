@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 public class dataproviderannotation 
 {
-   @Test()
+   @Test1()
    public void validation()
    {
 	   
